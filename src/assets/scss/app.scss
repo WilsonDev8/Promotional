@@ -1,0 +1,74 @@
+@import 'settings';
+@import 'foundation-emails';
+@import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+@import 'template/template';
+
+
+h1 {
+    padding-top: 20px;
+    text-align: center;
+    font-family: 'Yellowtail', cursive;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 21px;
+}
+
+p {
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    padding-top: 10px;
+}
+
+.footer-bottom {
+    background: black;
+}
+
+h5 {
+    padding-top: 20px;
+    text-align: center;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+}
+
+h4 {
+    font-size: 20px;
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
+
+h3 {
+    font-family: 'Roboto', sans-serif;
+    // padding-top: 40px;
+    font-size: 18px;
+}
+
+.content-left {
+    font-size: 16px;
+    text-align: center;
+}
+
+.gold {
+   color: #cc9b6d;
+}
+
+.media{
+    background: black;
+    display: inline;
+}
+
+.line_height {
+    line-height: 1.5;
+}
+
+
+
+
+
+
